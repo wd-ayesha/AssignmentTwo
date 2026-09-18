@@ -30,8 +30,9 @@ cd movie-explorer
 npm install
 npm run dev
 ```
-GitHub Live Link: 
-Live Deployment Link: 
+GitHub Repository Link: https://github.com/wd-ayesha/AssignmentTwo.git
+
+Live Deployment Link: https://dashing-crumble-ca0c36.netlify.app/
 ```
 
 ## 👩‍💻 Author
