@@ -30,7 +30,7 @@ cd movie-explorer
 npm install
 npm run dev
 ```
-GitHub Repository Link: 
+GitHub Live Link: 
 Live Deployment Link: 
 ```
 
