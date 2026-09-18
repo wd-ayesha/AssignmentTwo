@@ -35,6 +35,6 @@ GitHub Repository Link: https://github.com/wd-ayesha/AssignmentTwo.git
 Live Deployment Link: https://dashing-crumble-ca0c36.netlify.app/
 ```
 
-## 👩‍💻 Author
+## 👩‍💻 Designed By:
 
 **Ayesha Akter**

@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer className="footer sm:footer-horizontal bg-neutral text-neutral-content flex flex-col justify-between items-center p-4 md:flex-row md:justify-between">
+    <footer className="footer sm:footer-horizontal bg-neutral text-neutral-content flex flex-col justify-between items-center p-4 gap-4 md:flex-row md:justify-between">
       <div className="flex">
         <p className="text-xl font-bold">
           Movie<span className="text-blue-800">Explorer</span>
